@@ -2,8 +2,8 @@
  *\author Anath
  *\date January 2023
  */
-#include <iostream>
 
+#include <iostream>
 int main()
 {
     std::cout << "Size of signed char: ";
