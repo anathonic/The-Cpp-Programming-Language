@@ -49,3 +49,6 @@
 
 ### 5. What is an object in C++?
 ##### An object is an instance of a class with the class's own methods or procedures <br> and data variables.
+
+### 6. What is class in C++?
+##### A class is a user-defined data type that we can use in our program, and it works <br> as an object constructor, or a "blueprint" for creating objects. 
