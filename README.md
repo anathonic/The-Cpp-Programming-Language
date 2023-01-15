@@ -46,3 +46,6 @@
 * Abstraction
 * Encapsulation 
 * Polymorphism 
+
+### 5. What is an object in C++?
+##### An object is an instance of a class with the class's own methods or procedures <br> and data variables.
