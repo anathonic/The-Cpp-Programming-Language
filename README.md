@@ -73,3 +73,8 @@
 
 ### 13. What is Map in STL?
 ##### Maps are associative containers that store elements in a mapped fashion. <br> Each element has a key value and a mapped value. No two mapped values <br> can have the same key values.
+
+### 14. What is a Constructor?
+##### A constructor is a member function taht is invoked whenever we create an object, <br> it has the same name as that of the class. <br> There are 2 types of constructors:
+* Default constructor 
+* Parameterized constructor 
