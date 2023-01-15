@@ -29,12 +29,12 @@
 
 ### 2. What are classes and objects in C++?
 
-##### A class is a user-defined datatype members and member functions and <br> is defined with the keyword class.
-##### Objects are defined as an instance of a class. Once the object is created, <br> then it can operate on both data members and member functions.
+ A class is a user-defined datatype members and member functions and <br> is defined with the keyword class.
+ Objects are defined as an instance of a class. Once the object is created, <br> then it can operate on both data members and member functions.
 
 ### 3. What are access modifiers?
 
-##### Access modifiers are used to define accessibility for the class members. <br> It defines how the members of the class are accessed outside the class scope. <br> There are three types of access modifiers: 
+Access modifiers are used to define accessibility for the class members. <br> It defines how the members of the class are accessed outside the class scope. <br> There are three types of access modifiers: 
 * Private
 * Public
 * Protected
@@ -48,33 +48,33 @@
 * Polymorphism 
 
 ### 5. What is an object in C++?
-##### An object is an instance of a class with the class's own methods or procedures <br> and data variables.
+An object is an instance of a class with the class's own methods or procedures <br> and data variables.
 
 ### 6. What is class in C++?
-##### A class is a user-defined data type that we can use in our program, and it works <br> as an object constructor, or a "blueprint" for creating objects. 
+A class is a user-defined data type that we can use in our program, and it works <br> as an object constructor, or a "blueprint" for creating objects. 
 
 ### 7. What is the inheritance in C++?
-##### Inheritance is one of the main features of object-oriented programming in C++, <br> allowing us to inherit another class's properties.
+Inheritance is one of the main features of object-oriented programming in C++, <br> allowing us to inherit another class's properties.
 
 ### 8. What is meant by abstraction in C++? 
-##### Data abstraction refers to providing only essential information to the outside <br> world and hiding their background details.
+Data abstraction refers to providing only essential information to the outside <br> world and hiding their background details.
 
 ### 9. What is Encapsulation in C++?
-##### Encapsulation is an Object Oriented Programming concept that binds together <br> the data and functions that manipulate the data, and that keeps both safe from <br> outside interference and misuse.
+Encapsulation is an Object Oriented Programming concept that binds together <br> the data and functions that manipulate the data, and that keeps both safe from <br> outside interference and misuse.
 
 ### 10. What is Polymorphism in C++?
-##### What is Polymorphism in C++? Polymorphism in C++ means, the same entity <br>(function or object) behaves differently in different scenarios.
+What is Polymorphism in C++? Polymorphism in C++ means, the same entity <br>(function or object) behaves differently in different scenarios.
 
-### 11. What is Vector in STL?
-##### Vectors are the same as dynamic arrays with the ability to resize itself automatically <br> when an element is inserted or deleted, with their storage being handled automatically <br> by the container.
+### 11. What is a Vector in STL?
+Vectors are the same as dynamic arrays with the ability to resize itself automatically <br> when an element is inserted or deleted, with their storage being handled automatically <br> by the container.
 
-### 12. What is List in STL?
-##### Lists are sequence containers that allow non-contiguous memory allocation. <br> As compared to vector, the list has slow traversal, but once a position has been <br> found, insertion and deletion are quick.
+### 12. What is a List in STL?
+Lists are sequence containers that allow non-contiguous memory allocation. <br> As compared to vector, the list has slow traversal, but once a position has been <br> found, insertion and deletion are quick.
 
-### 13. What is Map in STL?
-##### Maps are associative containers that store elements in a mapped fashion. <br> Each element has a key value and a mapped value. No two mapped values <br> can have the same key values.
+### 13. What is a Map in STL?
+Maps are associative containers that store elements in a mapped fashion. <br> Each element has a key value and a mapped value. No two mapped values <br> can have the same key values.
 
 ### 14. What is a Constructor?
-##### A constructor is a member function taht is invoked whenever we create an object, <br> it has the same name as that of the class. <br> There are 2 types of constructors:
+A constructor is a member function taht is invoked whenever we create an object, <br> it has the same name as that of the class. <br> There are 2 types of constructors:
 * Default constructor 
 * Parameterized constructor 
