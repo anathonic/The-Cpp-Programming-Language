@@ -56,3 +56,5 @@
 ### 7. What is the inheritance in C++?
 ##### Inheritance is one of the main features of object-oriented programming in C++, <br> allowing us to inherit another class's properties.
 
+### 8. What is meant by abstraction in C++? 
+##### Data abstraction refers to providing only essential information to the outside <br> world and hiding their background details.
