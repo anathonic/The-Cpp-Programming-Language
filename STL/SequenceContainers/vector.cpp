@@ -58,4 +58,11 @@ std::cout << "Vector capacity: " << v.capacity() << std::endl;
 std::cout << "Size of vector: " << v.size() << std::endl;
 v.clear();
 std::cout << "Size of vector: " << v.size() << std::endl;
+v.push_back(1);
+v.push_back(2);
+v.push_back(4);
+v.push_back(5);
+printSizeAndContentOfVector(v);
+v.insert(v.begin() + 2, 3);
+printSizeAndContentOfVector(v);
 }
