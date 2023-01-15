@@ -56,4 +56,5 @@ int main()
     std::cout << sizeof(unsigned long long) << std::endl;
     std::cout << "Size of unsigned long long int: ";
     std::cout << sizeof(unsigned long long int) << std::endl;
+    return 0;
 }
