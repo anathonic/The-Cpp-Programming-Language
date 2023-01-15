@@ -27,3 +27,7 @@
 </tr>
 </table>
 
+### 2. What are classes and objects in C++?
+
+##### A class is a user-defined datatype members and member functions and <br> is defined with the keyword class.
+##### Objects are defined as an instance of a class. Once the object is created, <br> then it can operate on both data members and member functions.
