@@ -70,3 +70,6 @@
 
 ### 12. What is List in STL?
 ##### Lists are sequence containers that allow non-contiguous memory allocation. <br> As compared to vector, the list has slow traversal, but once a position has been <br> found, insertion and deletion are quick.
+
+### 13. What is Map in STL?
+##### Maps are associative containers that store elements in a mapped fashion. <br> Each element has a key value and a mapped value. No two mapped values <br> can have the same key values.
