@@ -58,3 +58,6 @@
 
 ### 8. What is meant by abstraction in C++? 
 ##### Data abstraction refers to providing only essential information to the outside <br> world and hiding their background details.
+
+### 9. What is Encapsulation in C++?
+##### Encapsulation is an Object Oriented Programming concept that binds together <br> the data and functions that manipulate the data, and that keeps both safe from <br> outside interference and misuse.
