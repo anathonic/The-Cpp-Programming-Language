@@ -84,3 +84,6 @@ A destructor is a member function that is invoked automatically when the object 
 
 ### 16. What is operator overloading in C++?
 It's a type of polymorphism in which an operator is overloaded to give it the user-defined <br> meaning. C++ allows us to specify more than one definition for a function name or an operator <br> in the same scope, which is called function overloading and operator overloading, respectively.
+
+### 17. What is a pointer?
+A pointer is a variable that stores the memory address of another variable as its value. <br> Pointers are used extensively in both C and C++ for three main purposes: to allocate new <br> objects on the heap, to pass functions to other functions. to iterate over elements in arrays <br> or other data structures.
