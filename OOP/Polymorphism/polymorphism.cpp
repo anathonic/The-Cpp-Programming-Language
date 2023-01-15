@@ -45,13 +45,13 @@ public:
 int main()
 {
     Derived derivedObj;
-    derivedObj.showName();
-    derivedObj.showNameLength();
-    derivedObj.introduceYourself();
+    derivedObj.showName();          //Derived
+    derivedObj.showNameLength();    //7
+    derivedObj.introduceYourself(); //I'm Derived
     Base *polyObj = new Derived;
-    polyObj->showName();
-    polyObj->showNameLength();
-    polyObj->introduceYourself();
+    polyObj->showName();            //Derived
+    polyObj->showNameLength();      //7
+    polyObj->introduceYourself();   //I'm Base
     delete polyObj;
     return 0;
 }
