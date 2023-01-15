@@ -52,3 +52,7 @@
 
 ### 6. What is class in C++?
 ##### A class is a user-defined data type that we can use in our program, and it works <br> as an object constructor, or a "blueprint" for creating objects. 
+
+### 7. What is the inheritance in C++?
+##### Inheritance is one of the main features of object-oriented programming in C++, <br> allowing us to inherit another class's properties.
+
