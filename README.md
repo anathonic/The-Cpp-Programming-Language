@@ -34,7 +34,7 @@
 
 ### 3. What are access modifiers?
 
-##### Access modifiers are used to define accessibility for the <br> class members. It defines how the members of the class <br> are accessed outside the class scope. <br> There are three types of access modifiers: 
+##### Access modifiers are used to define accessibility for the class members. <br> It defines how the members of the class are accessed outside the class scope. <br> There are three types of access modifiers: 
 * Private
 * Public
 * Protected
