@@ -38,3 +38,11 @@
 * Private
 * Public
 * Protected
+
+### 4. What are C++ OOPs concept? 
+* Object
+* Class
+* Inheritance 
+* Abstraction
+* Encapsulation 
+* Polymorphism 
