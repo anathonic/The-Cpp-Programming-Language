@@ -67,3 +67,6 @@
 
 ### 11. What is Vector in STL?
 ##### Vectors are the same as dynamic arrays with the ability to resize itself automatically <br> when an element is inserted or deleted, with their storage being handled automatically <br> by the container.
+
+### 12. What is List in STL?
+##### Lists are sequence containers that allow non-contiguous memory allocation. <br> As compared to vector, the list has slow traversal, but once a position has been <br> found, insertion and deletion are quick.
