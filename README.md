@@ -78,3 +78,6 @@ Maps are associative containers that store elements in a mapped fashion. <br> Ea
 A constructor is a member function taht is invoked whenever we create an object, <br> it has the same name as that of the class. <br> There are 2 types of constructors:
 * Default constructor 
 * Parameterized constructor 
+
+### 15. What is a Destructor?
+A destructor is a member function that is invoked automatically when the object goes out <br> of scope or is explicitly destroyed by a call to delete.
