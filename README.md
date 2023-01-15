@@ -61,3 +61,6 @@
 
 ### 9. What is Encapsulation in C++?
 ##### Encapsulation is an Object Oriented Programming concept that binds together <br> the data and functions that manipulate the data, and that keeps both safe from <br> outside interference and misuse.
+
+### 10. What is Polymorphism in C++?
+##### What is Polymorphism in C++? Polymorphism in C++ means, the same entity <br>(function or object) behaves differently in different scenarios.
