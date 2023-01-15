@@ -87,3 +87,7 @@ It's a type of polymorphism in which an operator is overloaded to give it the us
 
 ### 17. What is a pointer?
 A pointer is a variable that stores the memory address of another variable as its value. <br> Pointers are used extensively in both C and C++ for three main purposes: to allocate new <br> objects on the heap, to pass functions to other functions. to iterate over elements in arrays <br> or other data structures.
+
+### 18. What is a reference?
+
+A reference variable is an alias, that is, another name for an already existing variable. <br> Once a reference is initialized with a variable, either the variable name or the reference <br> name may be used to refer to the variable.
