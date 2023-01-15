@@ -64,3 +64,6 @@
 
 ### 10. What is Polymorphism in C++?
 ##### What is Polymorphism in C++? Polymorphism in C++ means, the same entity <br>(function or object) behaves differently in different scenarios.
+
+### 11. What is Vector in STL?
+##### Vectors are the same as dynamic arrays with the ability to resize itself automatically <br> when an element is inserted or deleted, with their storage being handled automatically <br> by the container.
