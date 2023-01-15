@@ -81,3 +81,6 @@ A constructor is a member function taht is invoked whenever we create an object,
 
 ### 15. What is a Destructor?
 A destructor is a member function that is invoked automatically when the object goes out <br> of scope or is explicitly destroyed by a call to delete.
+
+### 16. What is operator overloading in C++?
+It's a type of polymorphism in which an operator is overloaded to give it the user-defined <br> meaning. C++ allows us to specify more than one definition for a function name or an operator <br> in the same scope, which is called function overloading and operator overloading, respectively.
