@@ -8,7 +8,7 @@
  <tr>
     <td>
     	<ul>
-        	<li> C langueage is a procedure <br> oriented programming language </li>
+        	<li> C language is a procedure <br> oriented programming language </li>
   		<li> It follows top-down approach</li>
   		<li> It doesn't support function or <br> operator overloading </li>
             	<li> C language doesn't support <br> virtual and friend function </li>
