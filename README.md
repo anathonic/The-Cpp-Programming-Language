@@ -31,3 +31,10 @@
 
 ##### A class is a user-defined datatype members and member functions and <br> is defined with the keyword class.
 ##### Objects are defined as an instance of a class. Once the object is created, <br> then it can operate on both data members and member functions.
+
+### 3. What are access modifiers?
+
+##### Access modifiers are used to define accessibility for the <br> class members. It defines how the members of the class <br> are accessed outside the class scope. <br> There are three types of access modifiers: 
+* Private
+* Public
+* Protected
