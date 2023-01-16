@@ -93,3 +93,6 @@ A reference variable is an alias, that is, another name for an already existing 
 
 ### 19. What is the difference between reference and pointer?
 References are used to refer an existing variable in another name whereas pointers <br> are used to store address of variable. References cannot have a null value assigned <br> but pointer can. A reference variable can be referenced by pass by value whereas a <br> pointer can be referenced by pass by reference.
+
+### 20. What is an enum?
+An enumeration, or Enum , is a symbolic name for a set of values. Enumerations are <br> treated as data types, and you can use them to create sets of constants for use with <br> variables and properties.
