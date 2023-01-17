@@ -96,3 +96,35 @@ References are used to refer an existing variable in another name whereas pointe
 
 ### 20. What is an enum?
 An enumeration, or Enum , is a symbolic name for a set of values. Enumerations are <br> treated as data types, and you can use them to create sets of constants for use with <br> variables and properties.
+
+### 21. What is the difference between Vector and List?
+<table border="0">
+ <tr>
+ <td><b style="font-size:30px">Vector</b></td>
+    <td><b style="font-size:30px">List</b></td>
+ </tr>
+ <tr>
+    <td>
+    	<ul>
+        	<li> It has contiguous memory </li>
+  		<li> It is synchronized </li>
+  		<li> Vector may have a default size </li>
+            	<li> In vector, each element only <br> requires the space for itself only </li>
+  		<li> Random access of elements is possible </li>
+	</ul>
+   </td>
+   <td>
+    	<ul>
+  		<li> It has non-contiguous memory </li>
+  		<li> It is not synchronized </li>
+  		<li> List does not have default size </li>
+            	<li> In list, each element requires <br>
+		extra space for the node which holds <br>
+		the element, including pointers to the <br>
+		next and previous elements in the list. </li>
+  		<li>Random access of elements is not possible</li>
+	</ul>
+  </td>
+</tr>
+</table>
+
