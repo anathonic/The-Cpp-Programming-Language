@@ -128,4 +128,5 @@ An enumeration, or Enum , is a symbolic name for a set of values. Enumerations a
 </tr>
 </table>
  
- 
+ ### 22. What is std::move?
+std::move is used to indicate that an object t may be "moved from", <br> i.e. allowing the efficient transfer of resources from t to another object.
