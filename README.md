@@ -130,3 +130,6 @@ An enumeration, or Enum , is a symbolic name for a set of values. Enumerations a
  
  ### 22. What is std::move?
 std::move is used to indicate that an object t may be "moved from", i.e. allowing the efficient transfer <br> of resources from t to another object.
+
+### 23. What is constexpr used for?
+constexpr indicates that the value, or return value, is constant and, where possible, is computed at compile time.
